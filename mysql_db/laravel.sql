@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:4306
--- Generation Time: Oct 04, 2022 at 04:15 PM
+-- Generation Time: Oct 04, 2022 at 04:26 PM
 -- Server version: 10.4.24-MariaDB
 -- PHP Version: 8.1.6
 
@@ -116,8 +116,7 @@ INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `st
 (1, 'jabri j', 'jabri@gmail.com', '2022-09-29 19:14:17', '$2y$10$R1ZJcDzds.O2nogVyRcsCeNMUVAlJ5p9wnVl3epqwQdKvCtGJ5DyC', 'approved', NULL, '2022-09-29 19:13:47', '2022-10-04 03:50:54'),
 (2, 'user2', 'user2@gmail.com', '2022-10-04 00:01:02', '$2y$10$pfQSLZ3VVXNyBIfn6.dKA.OnzCZ7yd5p7zeR2IT1Jp8C4dl3gZvCu', 'rejected', NULL, '2022-10-03 23:59:37', '2022-10-04 03:50:41'),
 (3, 'user', 'user@gmail.com', '2022-10-04 00:05:08', '$2y$10$BOJosgmT9abExqLV7aEMkOv0PKGMkyWxRUgUJpnnXqA4A7pUfkQmS', 'pending', NULL, '2022-10-04 00:03:47', '2022-10-04 00:05:08'),
-(4, 'admin', 'admin@gmail.com', '2022-10-04 03:57:58', '$2y$10$ZCTQUv/b2xOiV6LKXBsvyeFicQptaDBbgAEawB6BNk66V7qTZXGP2', 'pending', NULL, '2022-10-04 03:57:23', '2022-10-04 03:57:58'),
-(5, 'Jabri Juhinin', 'jabrij93@gmail.com', '2022-10-04 04:47:56', '$2y$10$AR7VElllbC0hz7tLJfzDRe/evAIG2lAh.0xkOqVDq6miLswCynIKO', 'pending', NULL, '2022-10-04 04:47:28', '2022-10-04 04:47:56');
+(4, 'admin', 'admin@gmail.com', '2022-10-04 03:57:58', '$2y$10$ZCTQUv/b2xOiV6LKXBsvyeFicQptaDBbgAEawB6BNk66V7qTZXGP2', 'pending', NULL, '2022-10-04 03:57:23', '2022-10-04 03:57:58');
 
 --
 -- Indexes for dumped tables
